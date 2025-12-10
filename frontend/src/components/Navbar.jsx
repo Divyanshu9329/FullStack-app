@@ -16,7 +16,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto flex items-center justify-between px-6 md:px-12 py-4">
         {/* Logo */}
         <h1 className="text-xl sm:text-2xl font-bold bg-linear-to-r from-indigo-600 to-indigo-900 text-transparent bg-clip-text tracking-tight">
-          FLIPR Admin
+          project Admin
         </h1>
 
         {/* Desktop Menu */}

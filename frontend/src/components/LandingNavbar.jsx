@@ -20,7 +20,7 @@ export default function LandingNavbar() {
     <header className="w-full shadow-sm bg-white sticky top-0 z-40">
       <div className="max-w-7xl mx-auto flex items-center justify-between px-6 md:px-12 py-4">
         <h1 className="text-xl sm:text-2xl font-bold bg-linear-to-r from-indigo-600 to-indigo-900 text-transparent bg-clip-text tracking-tight">
-          FLIPR Studio
+          Project Studio
         </h1>
 
         {/* Desktop nav */}
