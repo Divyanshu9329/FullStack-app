@@ -2,7 +2,6 @@ import { useEffect, useState } from "react";
 import axiosClient from "../api/axiosClient";
 import ProjectCard from "../components/ProjectCard";
 import ProjectForm from "../components/ProjectForm";
-import About from "../components/About";
 import Testimonials from "../components/Testimonials";
 import Newsletter from "../components/Newsletter";
 
